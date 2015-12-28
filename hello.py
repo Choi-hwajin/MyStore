@@ -4,4 +4,4 @@ for i in range(1,4):
 		sys.stdout.write("*")
 	print (" ")
 print("abcd")
-	
+print("1234567")
